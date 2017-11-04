@@ -12,9 +12,9 @@ star_wars = media.Movie("Star Wars",
                         "https://www.youtube.com/watch?v=1g3_CFmnU7k")
 
 muppets_christmas = media.Movie("Muppets Christmas Carole",
-                        "A christmas classic",
-                        "https://upload.wikimedia.org/wikipedia/en/9/95/Muppet_christmas_carol.jpg",
-                        "https://www.youtube.com/watch?v=dhpu2tq9GG4")
+                                "A christmas classic",
+                                "https://upload.wikimedia.org/wikipedia/en/9/95/Muppet_christmas_carol.jpg",
+                                "https://www.youtube.com/watch?v=dhpu2tq9GG4")
 
 movies = [toy_story, star_wars, muppets_christmas]
 
