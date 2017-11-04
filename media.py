@@ -1,5 +1,10 @@
 import webbrowser
 
+"""
+A Class that creates a movie object.
+Must be initialized with the movie title, storyline, image_url and trailer url, which are all strings.
+"""
+
 
 class Movie:
     def __init__(self,
