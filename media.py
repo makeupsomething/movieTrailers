@@ -24,5 +24,8 @@ class Movie:
         self.trailer_youtube_url = trailer_youtube
 
     def show_trailer(self):
-        """When this function is called the default web browser will open and direct to the youtube_trailer_url"""
+        """
+        When this function is called the default web browser
+        will open and direct to the youtube_trailer_url
+        """
         webbrowser.open(self.trailer_youtube_url)
